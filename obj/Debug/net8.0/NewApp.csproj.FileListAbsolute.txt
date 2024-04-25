@@ -1,0 +1,14 @@
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/bin/Debug/net8.0/NewApp
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/bin/Debug/net8.0/NewApp.deps.json
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/bin/Debug/net8.0/NewApp.runtimeconfig.json
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/bin/Debug/net8.0/NewApp.dll
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/bin/Debug/net8.0/NewApp.pdb
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/obj/Debug/net8.0/NewApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/obj/Debug/net8.0/NewApp.AssemblyInfoInputs.cache
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/obj/Debug/net8.0/NewApp.AssemblyInfo.cs
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/obj/Debug/net8.0/NewApp.csproj.CoreCompileInputs.cache
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/obj/Debug/net8.0/NewApp.dll
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/obj/Debug/net8.0/refint/NewApp.dll
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/obj/Debug/net8.0/NewApp.pdb
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/obj/Debug/net8.0/NewApp.genruntimeconfig.cache
+/Users/christopherstockley/Desktop/Repos/NewApp/NewApp/obj/Debug/net8.0/ref/NewApp.dll
